@@ -1,0 +1,113 @@
+{
+    "resData": {
+        "info": {
+            "id": "307",
+            "name": "A2B - Adyar Ananda Bhavan",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/9/14/0d3921b2-68a0-4bf9-8e34-415e05e0fb39_307.jpg",
+            "locality": "BTM Layout",
+            "areaName": "BTM Layout",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+                "South Indian",
+                "Sweets",
+                "Chinese"
+            ],
+            "avgRating": 4.5,
+            "veg": true,
+            "parentId": "22",
+            "avgRatingString": "4.5",
+            "totalRatingsString": "92K+",
+            "sla": {
+                "deliveryTime": 36,
+                "lastMileTravel": 3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-40 mins",
+                "lastMileTravelString": "3.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2026-09-18 23:59:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "brand_cards/Badges%202026/32_Best%20in%20South%20Indian2026.png",
+                        "description": "Top-rated for South Indian, based on user votes."
+                    },
+                    {
+                        "imageId": "brand_cards/Badges%202026/57_Best%20in%20Indian%20Sweets2026.png",
+                        "description": "Top-rated for Indian Sweets, based on user votes."
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "Top-rated for South Indian, based on user votes.",
+                                    "imageId": "brand_cards/Badges%202026/32_Best%20in%20South%20Indian2026.png",
+                                    "theme": ""
+                                }
+                            },
+                            {
+                                "attributes": {
+                                    "description": "Top-rated for Indian Sweets, based on user votes.",
+                                    "imageId": "brand_cards/Badges%202026/57_Best%20in%20Indian%20Sweets2026.png",
+                                    "theme": ""
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "ITEMS",
+                "subHeader": "AT ₹139",
+                "discountCalloutInfo": {
+                    "message": "Free Delivery",
+                    "logoCtx": {
+                        "logo": "v1655895371/free_delivery_logo_hqipbo.png"
+                    }
+                },
+                "logoCtx": {
+                    "text": "BENEFITS"
+                }
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "4.1",
+                    "ratingCount": "13K+"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+            "priceComparisonComms": {}
+        },
+        "analytics": {
+            "context": "seo-data-8fdbc819-18d9-4d96-b997-ea261f1c7a36"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/bangalore/a2b-adyar-ananda-bhavan-btm-layout-rest307",
+            "type": "WEBLINK"
+        }
+    }
+    
+}
